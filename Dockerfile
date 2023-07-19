@@ -1,4 +1,3 @@
-# docker build -t erdock1/pipeline-mock-public:dev.0.0.0.1-dev -t erdock1/pipeline-mock-public:latest_stage .
 
 FROM python:3.8-slim-buster
 
